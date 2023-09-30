@@ -1,16 +1,17 @@
 # 2023-Spring-Study
+
 ## 스터디 멤버
 
 <table>
  <tr>
-    <td align="center"><a href=""><img src="" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/JaehyukBaek"><img src="https://avatars.githubusercontent.com/u/146515616?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/wannastudyhardyeah"><img src="https://avatars.githubusercontent.com/u/101349088?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href=""><img src="" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/hidanbeing"><img src="https://avatars.githubusercontent.com/u/102282703?s=96&v=4" width="130px;" alt=""></a></td>
   
   </tr>
   <tr>
-    <td align="center"><a href=""><b></b></a></td>
+    <td align="center"><a href="https://github.com/JaehyukBaek"><b>Jaehyuk Baek</b></a></td>
     <td align="center"><a href="https://github.com/wannastudyhardyeah"><b>Gwangmin Kim</b></a></td>
     <td align="center"><a href=""><b></b></a></td>
     <td align="center"><a href="https://github.com/hidanbeing"><b>Danbee Lee</b></a></td>
